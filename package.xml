@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>Indianic_Couponimpexport</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://www.opensource.org/licenses/osl-3.0.php">v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>This module allows you to import and export your Shopping Cart Price Rules data such as code, customer name,from date, todate...etc..</summary>
+    <description>This module allows you to import and export your Shopping Cart Price Rules data such as code, customer name,from date, todate...etc..</description>
+    <notes>Coupon Import-Export Extension</notes>
+    <authors><author><name>Sanjay</name><user>sanju_patolia</user><email>sanjay.patolia@indianic.com</email></author></authors>
+    <date>2013-04-19</date>
+    <time>12:13:36</time>
+    <contents><target name="magelocal"><dir name="Indianic"><dir name="Couponimpexport"><dir name="Model"><dir name="Convert"><dir name="Adapter"><file name="Couponimpexport.php" hash="06c0247ec5de16aed0005e08cc39795a"/></dir><dir name="Parser"><file name="Couponimpexport.php" hash="869cc74fbb6829e2de2ad7a683365556"/></dir></dir><file name="Couponimpexport.php" hash="d4785c0014b45b0462cc713aa23c9bab"/></dir><dir name="etc"><file name="config.xml" hash="7a15664f09e938375423915bcbaf0235"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Indianic_Couponimpexport.xml" hash="b17ea9b4d7d04c65728a3678899c1348"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
