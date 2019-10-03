@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/Indianic_Couponimpexport",
+    "name": "OpenMageModuleFostering\/Indianic_Couponimpexport",
     "type": "magento-module",
     "license": "v3.0",
     "homepage": "",
     "description": "This module allows you to import and export your Shopping Cart Price Rules data such as code, customer name,from date, todate...etc..",
     "authors": [
-    {
-        "name": "Sanjay",
-        "email": "sanjay.patolia@indianic.com"
-    }
-],
+        {
+            "name": "Sanjay",
+            "email": "sanjay.patolia@indianic.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
